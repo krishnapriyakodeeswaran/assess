@@ -47,7 +47,7 @@ File Structure:
 2)detect_video.py      
 3)detect.jfif          
 4)output_image.jpg    
-5) outputdetect.mp4            
+5)outputdetect.mp4            
 6)yolov8n.pt           
 7)README.md
 
